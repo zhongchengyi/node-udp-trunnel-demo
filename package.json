@@ -1,0 +1,13 @@
+{
+  "name": "server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "server": "node ./src/server.js",
+    "client": "node ./src/client.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
